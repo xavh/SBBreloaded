@@ -1,0 +1,49 @@
+{
+  "name": "sbb-dashboard-reloaded-forked",
+  "version": "1.0.0",
+  "description": "Go",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@antv/l7": "latest",
+    "@antv/l7-maps": "latest",
+    "@react-hook/window-size": "3.0.7",
+    "@testing-library/jest-dom": "5.11.5",
+    "@testing-library/react": "11.1.0",
+    "downshift": "6.0.6",
+    "enzyme": "3.11.0",
+    "enzyme-adapter-react-15": "1.4.2",
+    "enzyme-adapter-react-16": "1.15.5",
+    "jest-dom": "4.0.0",
+    "jest-enzyme": "7.1.2",
+    "moment": "2.29.1",
+    "moment-timezone": "0.5.34",
+    "normalize": "0.3.1",
+    "react": "17.0.0",
+    "react-dom": "17.0.0",
+    "react-gauge-chart": "0.2.5",
+    "react-icons": "3.11.0",
+    "react-indiana-drag-scroll": "1.7.2",
+    "react-live-clock": "latest",
+    "react-moment": "1.1.1",
+    "react-scripts": "3.4.3",
+    "react-svg-gauge": "1.0.10",
+    "react-table": "^7.1.0",
+    "react-test-renderer": "17.0.1",
+    "react-testing-library": "8.0.1",
+    "styled-components": "5.2.0",
+    "svg-gauge": "latest",
+    "recharts": "2.0.3",
+    "react-touch-carousel": "0.9.3"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
